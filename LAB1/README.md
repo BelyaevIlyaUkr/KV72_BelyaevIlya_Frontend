@@ -4,4 +4,4 @@
 #
 #
 # Варіант 2
-#![alt text](https://github.com/BelyaevIlyaUkr/KV72_BelyaevIlya_Frontend/blob/master/LAB1/Variant.png)
+# ![alt text](https://github.com/BelyaevIlyaUkr/KV72_BelyaevIlya_Frontend/blob/master/LAB1/Variant.png)
