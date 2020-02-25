@@ -12,28 +12,46 @@
 }
 
 
+.navbar-brand .img:hover{
+    opacity: 0.5;
+}
+
+
 .nav-link:hover { 
     background: #eb5656; 
     color: #f4f4f4; 
 }
 
+
+#present_page {
+    background: silver;
+    color: #f4f4f4;
+    margin-right: 1em !important;
+    cursor: pointer;
+}
+
+
 .navbar-collapse {
     justify-content: flex-end;
 }
+
 
 .navbar-brand img {
     width: 60px;
     justify-content: flex-start;
 }
 
+
 .row.content {
     margin-top: auto;
     height: auto;
 }
 
+
 .card{
     height:auto;
 }
+
 
 .sidenav {
     padding-top: 20px;
@@ -50,15 +68,18 @@
     text-align: center;
 }
 
+
 .carousel-inner img {
     width: 60%;
     height: 40%;
 }
 
+
 .carousel-inner {
     width: 100%;
     height: 100%;
 }
+
 
 .carousel-caption h3 {
     position: relative;
@@ -71,13 +92,16 @@
     background-color: #eb5656;
 }
 
+
 .carousel-control-prev {
     background-color: #eb5656
 }
 
+
 .carousel-control-next {
     background-color: #eb5656;
 }
+
 
 .col-sm-9 p {
     font-size: 20px;
@@ -85,18 +109,21 @@
     color: #eb5656;
 }
 
+
 .col-sm-9 h1 {
     font-weight: 300;
 }
+
 
 .jumbotron {
     margin-top: 3em;
 }
 
+
 footer {
     background-color: #555;
     color: white;
-    padding: auto;
+    padding: 1px;
     position: auto;
     left: 0;
     bottom: 0;
